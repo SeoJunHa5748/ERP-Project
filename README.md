@@ -46,15 +46,15 @@
 
 ### 프론트엔드
 <img src ="https://drive.google.com/uc?id=158cXoN9fPhnWyw9dUySBxi9STDsWluZL"
-  hight =70px width =70px;>
+  hight =70px width =70px;>  
 <img src ="https://drive.google.com/uc?id=1S61bRrTHOfk2-13OS4HxvfbMMBevjigi"
-  hight =70px width =70px;> 
+  hight =70px width =70px;>  
 <img src ="https://drive.google.com/uc?id=1mary0K_ERaMsxiFRF4sTQn7fzrS7vuzm"
-  hight =70px width =70px;> 
+  hight =70px width =70px;>  
 <img src ="https://drive.google.com/uc?id=1Ef52rjLZ7yt5W4GKH_WUyeSvUKVPBVOs"
-  hight =70px width =70px;> 
+  hight =70px width =70px;>  
 <img src ="https://drive.google.com/uc?id=1VJDiBAZqBYoI0gLxWKgBvFhoPhmCtZfO"
-  hight =70px width =70px;> 
+  hight =70px width =70px;>  
   
 
 
